@@ -26,4 +26,10 @@
   .list_data p {
     margin: 5px 0;
   }
+
+  .food_img{
+    width: 200px; 
+    height: 200px; 
+    object-fit: cover
+  }
   
